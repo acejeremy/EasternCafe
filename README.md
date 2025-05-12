@@ -1,6 +1,7 @@
 # EasternCafe
 
 Eastern Cafe Website Redesign Documentation & Presentation
+old website- https://easterncafe.wixsite.com/easterncafe
 1. Documentation: Design Choices & Improvements
 A. Analysis of Original Website (Before Redesign)
 Issues Identified:
